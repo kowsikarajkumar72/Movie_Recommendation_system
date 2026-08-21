@@ -170,13 +170,6 @@ The Sentence Transformer generated relevant recommendations such as:
 
 These recommendations showed stronger semantic and contextual similarity to the user's movie preferences.
 
-## 📈 Key Findings
-
-* Word2Vec provides basic semantic relationships through word-level embeddings.
-* Sentence Transformers capture richer contextual and semantic information.
-* The Sentence Transformer model produced substantially more relevant recommendations.
-* Transformer-based embeddings achieved **64.75% recommendation success** in the evaluation.
-* Cosine similarity was used to compare movie embeddings.
 
 ## 🚀 Future Improvements
 
