@@ -179,7 +179,5 @@ Possible improvements include:
 * Using collaborative filtering
 * Combining content-based and collaborative filtering
 * Adding more user behavior signals
-* Deploying the recommendation system as a web application
-* Improving recommendation diversity
-* Using larger or more advanced transformer models
+  
 
