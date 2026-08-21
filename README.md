@@ -170,14 +170,6 @@ The Sentence Transformer generated relevant recommendations such as:
 
 These recommendations showed stronger semantic and contextual similarity to the user's movie preferences.
 
-## 🖥️ Gradio Interface
-
-A **Gradio** interface was also developed to demonstrate the recommendation system.
-
-Users can provide movie titles, and the system generates movie recommendations based on their selections.
-
-The interface is intended as a demonstration of how the recommendation model could be used in an interactive application.
-
 ## 📈 Key Findings
 
 * Word2Vec provides basic semantic relationships through word-level embeddings.
@@ -198,12 +190,3 @@ Possible improvements include:
 * Improving recommendation diversity
 * Using larger or more advanced transformer models
 
-## 👩‍💻 Author
-
-**Kowsika**
-
-Aspiring Data Analyst | Python | SQL | Machine Learning | Deep Learning | GenAI
-
----
-
-⭐ If you find this project useful, feel free to star the repository!
